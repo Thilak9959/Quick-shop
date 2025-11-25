@@ -1,4 +1,4 @@
-# QuickShop - Ecommerce Website
+# QuickShop -  Website
 
 A simple, responsive ecommerce website built with HTML, CSS, and JavaScript.
 
